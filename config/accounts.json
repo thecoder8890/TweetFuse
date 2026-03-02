@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    "OpenAI",
+    "xdevelopers",
+    "TechCrunch",
+    "verge",
+    "WIRED",
+    "TheNextWeb",
+    "github",
+    "reactjs",
+    "nodejs",
+    "typescript",
+    "vercel",
+    "netlify"
+  ],
+  "settings": {
+    "tweetsPerAccount": 8,
+    "refreshIntervalSeconds": 60,
+    "excludeReplies": true,
+    "excludeRetweets": true,
+    "maxConcurrentRequests": 4,
+    "cacheTTLSeconds": 45,
+    "retryCount": 2
+  }
+}
